@@ -31,6 +31,10 @@ AISACコントロール名をクリックするとクリップボードにその
 ### Hide default name AISAC controlsオプション
 このオプションをオフにすると、デフォルトのAISAC名(AisacControl_01など)も表示します。
 
+### ScriptableObjectとしてのデータ保存
+各データはScriptable Objectとして保存されます。
+Editorフォルダ外にコピーすればゲーム実行中でも使用できます。
+
 ## 確認環境
 * Unity 2019.4.1f1
 * ADX2 LE SDK 2.10.05
