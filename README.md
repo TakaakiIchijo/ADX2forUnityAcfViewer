@@ -1,4 +1,4 @@
-# Unity ADX2 Acf Viewer
+# ADX2 for Unity Acf Viewer
 Unity + ADX2環境においてACFファイルの中身を表示するEditor拡張です。
 カテゴリ名またはAISACコントロール名をクリックすると、クリップボードに名前がコピーされます。
 
